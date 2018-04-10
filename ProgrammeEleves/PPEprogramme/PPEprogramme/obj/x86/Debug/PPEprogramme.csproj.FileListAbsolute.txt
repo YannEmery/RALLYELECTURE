@@ -1,0 +1,18 @@
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.csprojResolveAssemblyReference.cache
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.FenetreProgramme.resources
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.Properties.Resources.resources
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.csproj.GenerateResource.Cache
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\bin\Debug\PPEprogramme.exe
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\bin\Debug\PPEprogramme.pdb
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.exe
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.pdb
+U:\DeuxièmeAnnée\PPE\PPEprogramme\PPEprogramme\bin\Debug\MySql.Data.dll
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.exe
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.pdb
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\bin\Debug\PPEprogramme.exe
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\bin\Debug\PPEprogramme.pdb
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\bin\Debug\MySql.Data.dll
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.csprojResolveAssemblyReference.cache
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.FenetreProgramme.resources
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.Properties.Resources.resources
+E:\Deuxième année\PPE\PPEprogramme\PPEprogramme\obj\x86\Debug\PPEprogramme.csproj.GenerateResource.Cache
